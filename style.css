@@ -30,6 +30,63 @@ li{
 
 /* list short hand */
 
-ul{
+/* ul{\
     list-style: inside square;
+} */
+
+/* tables properties */
+/* table{
+    width: 600px;
+    padding: 20px;
+    text-transform: uppercase;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+} */
+
+/* table,td,th{
+    border: 1px solid red ;
+    border-collapse: collapse;
+    text-align: left;
+} */
+
+/* table{
+    background-color: aqua;
+} */
+
+/* tr:hover{
+    background-color: bisque;
+    cursor: pointer;
+}
+td{
+    padding: 10px;
+} */
+/* th{
+    background-color: black;
+    color: white; 
+} */
+
+/* .even{
+    background-color: black;
+    color: white;
+} */
+
+/* empty cells */
+
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+}
+table {
+    empty-cells: show;
+} */
+
+/* gaps betweem cells */
+
+td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;}
+table{
+    border-collapse: separate;
 }
