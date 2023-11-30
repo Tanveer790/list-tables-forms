@@ -83,10 +83,62 @@ table {
 
 /* gaps betweem cells */
 
-td {
+/* td {
     background-color: #0088dd;
     padding: 15px;
     border: 2px solid #000000;}
 table{
     border-collapse: separate;
+} */
+/* styling forms */
+#github{
+    margin-top: 5px;
+}
+/* input{
+    font-size: xx-large;
+    color: red;
+    background-color: black;
+    color: white;
+} */
+
+/* input{
+    border: 5px solid red;
+    border-radius: 10px;
+} */
+/* input:hover{
+    background-color: lightblue;
+}
+input:focus{
+    border: 5px solid red;
+    outline: none;
+} */
+
+/* #email{
+    background-image: url('./images/email.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+#github{
+    background-image: url('./images/github.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+} */
+/* styling fieldset and legends */
+
+fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+    legend {
+    background-color: #ebdcdc;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
 }
